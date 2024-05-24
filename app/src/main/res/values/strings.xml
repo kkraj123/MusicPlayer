@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Music Player</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="onboarding_text1">Love is friendship set to music</string>
+    <string name="onboarding_text2">Music is love in search of a word</string>
+    <string name="onboarding_text3">Love is like the wind, you can\'t see it but you can feel it.</string>
+    <string name="onboarding_desc1">Music doesn\'t lie. if there is something to be changed in this world, then it can only happen through music.</string>
+    <string name="onboarding_desc2">With the night Music, you either forget everything or you remember everything.</string>
+    <string name="onboarding_desc3">Music is able to impact the ethical side of the soul. And again the music has such properties that, obviously, it should be included in an education process of youth.</string>
+    <string name="deny">DENY</string>
+    <string name="retry">RETRY</string>
+    <string name="notnow">Not Now</string>
+    <string name="settings">SETTINGS</string>
+    <string name="permissionDenied">Permission Denied</string>
+    <string name="downloadRationaleMsg">Unable to download file without Write Storage permission.</string>
+    <string name="storageWarningMsg">You need to allow Storage access in the phone setting</string>
+    <string name="pleaseGrantRequestedPermission">Please grant requested permission</string>
+    <string name="local_music_list">Local Music List</string>
+    <string name="search">search</string>
+    <string name="no_data_found">No Data Found</string>
+    <string name="now_playing">Now Playing</string>
+
+</resources>
